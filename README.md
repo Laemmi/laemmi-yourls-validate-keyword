@@ -3,7 +3,7 @@ Plugin for YOURLS 1.7
 
 ## Description
 Validate keyword before saving. Also filter keyword to lowercase.
-You must install "laemmi-yourls-default-tools" fist.
+You must install "laemmi-yourls-default-tools" first.
 
 ## Installation
 * In /user/plugins, create a new folder named laemmi-yourls-validate-keyword.
